@@ -18,11 +18,11 @@
   </a>
 
   <a href="https://github.com/search?q=user%3Ajillnguyen2311+language%3Ahtml">
-    <img alt="html" src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5">
+    <img alt="html" src="https://img.shields.io/badge/html-red?style=for-the-badge&logo=html5">
   </a>
 
   <a href="https://github.com/search?q=user%3Ajillnguyen2311+language%3Acss">
-    <img alt="css" src="https://img.shields.io/badge/css-F43059?style=for-the-badge&logo=csswizardry">
+    <img alt="css" src="https://img.shields.io/badge/css-pink?style=for-the-badge&logo=csswizardry">
   </a>
 
 <img alt="vscode" src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode">
