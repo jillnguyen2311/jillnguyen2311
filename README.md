@@ -6,22 +6,26 @@
 ### ⚡Tecnologies & Tools
 <p>
   <a href="https://github.com/search?q=user%3Ajillnguyen2311+language%3Anextjs">
-    <img alt="Next js" src="https://img.shields.io/badge/next.js-grey?style=for-the-badge&logo=next.js">
+    <img alt="Next js" src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js">
+  </a>
+
+  <a href="https://github.com/search?q=user%3Ajillnguyen2311+language%3Areact">
+    <img alt="React js" src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react">
   </a>
   
   <a href="https://github.com/search?q=user%3Ajillnguyen2311+language%3Ajavascript">
-    <img alt="Javascript" src="https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript">
+    <img alt="Javascript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript">
   </a>
 
   <a href="https://github.com/search?q=user%3Ajillnguyen2311+language%3Ahtml">
-    <img alt="html" src="https://img.shields.io/badge/html-grey?style=for-the-badge&logo=html5">
+    <img alt="html" src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5">
   </a>
 
   <a href="https://github.com/search?q=user%3Ajillnguyen2311+language%3Acss">
-    <img alt="css" src="https://img.shields.io/badge/css-grey?style=for-the-badge&logo=csswizardry">
+    <img alt="css" src="https://img.shields.io/badge/css-F43059?style=for-the-badge&logo=csswizardry">
   </a>
 
-<img alt="html" src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode">
+<img alt="vscode" src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode">
 </p>
 
 
