@@ -2,7 +2,7 @@
 ## A designer based in Vancouver, BC
 - 📫 Reach me at: nguyennuduyhoai75@gmail.com
 - 🔭 I'm currently taking Digital Development diploma from BCIT
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+<img alt="Static Badge" src="https://img.shields.io/badge/just%20the%20message-8A2BE2">
 - ⚡Tecnologies & Tools: 
 <!--
 **jillnguyen2311/jillnguyen2311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
