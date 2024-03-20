@@ -10,7 +10,7 @@
   </a>
 
   <a href="https://github.com/search?q=user%3Ajillnguyen2311+language%3Areact">
-    <img alt="React js" src="https://img.shields.io/badge/react-?style=for-the-badge&logo=react">
+    <img alt="React js" src="https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react">
   </a>
   
   <a href="https://github.com/search?q=user%3Ajillnguyen2311+language%3Ajavascript">
