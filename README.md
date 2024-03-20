@@ -17,6 +17,10 @@
     <img alt="Javascript" src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript">
   </a>
 
+  <a href="https://github.com/search?q=user%3Ajillnguyen2311+language%3Atypescript">
+    <img alt="Typescript" src="https://img.shields.io/badge/typescript-65ADF1?style=for-the-badge&logo=typescript">
+  </a>
+
   <a href="https://github.com/search?q=user%3Ajillnguyen2311+language%3Ahtml">
     <img alt="html" src="https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5">
   </a>
