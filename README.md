@@ -18,7 +18,7 @@
   </a>
 
   <a href="https://github.com/search?q=user%3Ajillnguyen2311+language%3Ahtml">
-    <img alt="html" src="https://img.shields.io/badge/html-red?style=for-the-badge&logo=html5">
+    <img alt="html" src="https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5">
   </a>
 
   <a href="https://github.com/search?q=user%3Ajillnguyen2311+language%3Acss">
