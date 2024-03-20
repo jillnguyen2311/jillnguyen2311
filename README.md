@@ -29,7 +29,14 @@
     <img alt="css" src="https://img.shields.io/badge/css-pink?style=for-the-badge&logo=csswizardry">
   </a>
 
+  <a href="https://github.com/search?q=user%3Ajillnguyen2311+language%3Atailwindcss">
+    <img alt="tailwind css" src="https://img.shields.io/badge/tailwindcss-add8e6?style=for-the-badge&logo=tailwindcss">
+  </a>
+
 <img alt="vscode" src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode">
+
+<img alt="figma" src="https://img.shields.io/badge/figma-pink?style=for-the-badge&logo=figma">
+
 
 
 <p align="center">
