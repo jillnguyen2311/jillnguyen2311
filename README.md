@@ -33,9 +33,13 @@
     <img alt="tailwind css" src="https://img.shields.io/badge/tailwindcss-add8e6?style=for-the-badge&logo=tailwindcss">
   </a>
 
+<a>
 <img alt="vscode" src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode">
+</a>
 
+<a>
 <img alt="figma" src="https://img.shields.io/badge/figma-pink?style=for-the-badge&logo=figma">
+</a>
 
 
 
