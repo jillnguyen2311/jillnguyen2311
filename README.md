@@ -14,7 +14,7 @@
   </a>
   
   <a href="https://github.com/search?q=user%3Ajillnguyen2311+language%3Ajavascript">
-    <img alt="Javascript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript">
+    <img alt="Javascript" src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript">
   </a>
 
   <a href="https://github.com/search?q=user%3Ajillnguyen2311+language%3Ahtml">
