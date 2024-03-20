@@ -6,7 +6,7 @@
 ### ⚡Tecnologies & Tools
 <p>
   <a href="https://github.com/search?q=user%3Ajillnguyen2311+language%3Anextjs">
-    <img alt="Next js" src="https://img.shields.io/badge/next.js?style=for-the-badge&logo=next.js">
+    <img alt="Next js" src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js">
   </a>
 
   <a href="https://github.com/search?q=user%3Ajillnguyen2311+language%3Areact">
