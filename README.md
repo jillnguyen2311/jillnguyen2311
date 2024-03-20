@@ -4,7 +4,7 @@
 - 🔭 I'm currently taking Digital design & development Diploma from BCIT
 
 ### ⚡Tecnologies & Tools
-
+<p>
   <a href="https://github.com/search?q=user%3Ajillnguyen2311+language%3Anextjs">
     <img alt="Next js" src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js">
   </a>
@@ -33,15 +33,11 @@
     <img alt="tailwind css" src="https://img.shields.io/badge/tailwindcss-add8e6?style=for-the-badge&logo=tailwindcss">
   </a>
 
-<a>
 <img alt="vscode" src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode">
-</a>
 
-<a>
 <img alt="figma" src="https://img.shields.io/badge/figma-pink?style=for-the-badge&logo=figma">
-</a>
 
-
+</p>
 
 <p align="center">
 <a href="https://nguyennuduyhoai75.wixsite.com/jill-portfolio">
