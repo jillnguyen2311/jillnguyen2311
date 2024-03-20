@@ -10,12 +10,18 @@
   </a>
   
   <a href="https://github.com/search?q=user%3Ajillnguyen2311+language%3Ajavascript">
-    <img alt="Next js" src="https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript">
+    <img alt="Javascript" src="https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript">
   </a>
 
   <a href="https://github.com/search?q=user%3Ajillnguyen2311+language%3Ahtml">
-    <img alt="Next js" src="https://img.shields.io/badge/html&css-grey?style=for-the-badge&logo=html5">
+    <img alt="html" src="https://img.shields.io/badge/html-grey?style=for-the-badge&logo=html5">
   </a>
+
+  <a href="https://github.com/search?q=user%3Ajillnguyen2311+language%3Acss">
+    <img alt="css" src="https://img.shields.io/badge/css-grey?style=for-the-badge&logo=csswizardry">
+  </a>
+
+<img alt="html" src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode">
 </p>
 
 
