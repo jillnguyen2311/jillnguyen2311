@@ -4,9 +4,11 @@
 - 🔭 I'm currently taking Digital Development diploma from BCIT
 - ⚡Tecnologies & Tools:
 
+<p align="center">
 <a href="https://nguyennuduyhoai75.wixsite.com/jill-portfolio">
-<img alt="Static Badge" src="https://img.shields.io/badge/just%20the%20message-8A2BE2">
+<img alt="Static Badge" src="https://img.shields.io/badge/check%20my%20Portfolio-8A2BE2">
 </a>
+</p>
 <!--
 **jillnguyen2311/jillnguyen2311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
