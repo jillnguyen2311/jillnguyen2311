@@ -1,6 +1,9 @@
 # Hi there. I'm Jill 👋
 ## A designer based in Vancouver, BC
 - 📫 Reach me at: nguyennuduyhoai75@gmail.com
+  <a href="https://www.linkedin.com/in/jill-nguyen-a27823118/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin">
+  </a>
 - 🔭 I'm currently taking Digital design & development Diploma from BCIT
 
 ### ⚡Tecnologies & Tools
