@@ -1,8 +1,15 @@
 # Hi there. I'm Jill 👋
 ## A designer based in Vancouver, BC
 - 📫 Reach me at: nguyennuduyhoai75@gmail.com
-- 🔭 I'm currently taking Digital Development diploma from BCIT
-- ⚡Tecnologies & Tools:
+- 🔭 I'm currently taking Digital design & development Diploma from BCIT
+
+### ⚡Tecnologies & Tools
+<p>
+  <a href="https://github.com/search?q=user%3Ajillnguyen2311+language%3Anextjs">
+    <img alt="Next js" src"https://img.shields.io/javascript-grey?style=for-the-badge&logo=javascript">
+  </a>
+</p>
+
 
 <p align="center">
 <a href="https://nguyennuduyhoai75.wixsite.com/jill-portfolio">
